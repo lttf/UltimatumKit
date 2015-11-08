@@ -1,0 +1,9 @@
+main: com.lttf.UltimatumKit.Main
+name: UltimatumKit
+version: 1.0
+
+commands:
+  balance:
+    description: Check current balance.
+  stats:
+    description: Check stats.
